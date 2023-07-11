@@ -1,6 +1,9 @@
 <div align="center">
    <h1>:woman_technologist: Blog :woman_technologist:</h1>
 
+   <a href="https://medium.com/@steviemilitello" target="_blank">
+      <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
+   </a>
    <a href="http://steviecodes.com" target="_blank">
       <img src="https://img.shields.io/badge/-Portfolio_-darkgreen?style=for-the-badge&logo=medium"/>
    </a>
